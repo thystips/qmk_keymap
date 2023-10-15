@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"llvm-vs-code-extensions.vscode-clangd",
+			"editorconfig.editorconfig",
+			"bierner.github-markdown-preview",
+			"donjayamanne.git-extension-pack",
+			"github.vscode-github-actions"
+		]
+	}
+}
